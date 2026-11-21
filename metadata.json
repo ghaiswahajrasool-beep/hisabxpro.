@@ -1,0 +1,6 @@
+{
+  "name": "HisabxPro",
+  "description": "Ultra-luxury business khata, udhaar ledger, and personal daily expense manager with analytics, WhatsApp reminders, and branded PDF statements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
